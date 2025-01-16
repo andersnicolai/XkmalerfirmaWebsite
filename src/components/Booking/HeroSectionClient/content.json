@@ -1,0 +1,32 @@
+{
+  "sectionTitle": "Spar penger",
+  "headline": "Få tannbehandling til redusert pris!",
+  "description": "Bestill nå og dra nytte av et spesialtilbud: komplett tannlegeundersøkelse inkludert rens, fjerning av tannstein og røntgen til kun kr 590,- (verdi kr 1360,-).",
+  "imageSrc": "assets/images/closeup-shot-laughing-male-model-outside-sun-rays_181624-53325.jpg",
+  "imageAlt": "Tannlegeutstyr",
+  "buttonText": "Bestill time i dag",
+  "progressText": "Bare 2 steg igjen til ditt perfekte smil! 😁",
+  "reviews": [
+    "4.5/5 Google anmeldelser",
+    "4.6/5 Facebook anmeldelser",
+    "4.7/5 Trustpilot anmeldelser"
+  ],
+  "benefits": [
+    {
+      "title": "Forebygging av tannproblemer",
+      "description": "Regelmessige tannlegebesøk hjelper med å oppdage og forebygge fremtidige tannproblemer tidlig, noe som kan spare deg for tid og penger på sikt."
+    },
+    {
+      "title": "Profesjonell tannrengjøring",
+      "description": "Profesjonell rengjøring fjerner plakk og tannstein som ikke kan fjernes ved vanlig tannpuss, og bidrar til å opprettholde god munnhygiene og forebygge tannkjøttsykdommer."
+    },
+    {
+      "title": "Helhetlig vurdering av tannhelsen",
+      "description": "Tannlegen vurderer den generelle helsen til dine tenner og tannkjøtt og gir veiledning basert på dine individuelle behov for å sikre optimal munnhelse."
+    }
+  ],
+  "currentReview": {
+    "text": "Fantastisk service og flotte resultater!",
+    "ratingImage": "path-to-rating-image"
+  }
+}

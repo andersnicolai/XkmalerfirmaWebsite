@@ -11,8 +11,6 @@ Dockerfile
 
 # Static files
 dist/
-public/
-static/
 
 # Configuration files
 postcss.config.js
